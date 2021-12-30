@@ -1,7 +1,7 @@
 # domainToIp
 Herramienta en Python para obtener la IP de un dominio
 ## Requisitos previos
-Antes de ejecutar la herramienta es necesario instalar la librería pwn de python:
+Antes de ejecutar la herramienta es necesario ejecutar el siguiente comando:
 ```python3
 pip install pwn
 ```
